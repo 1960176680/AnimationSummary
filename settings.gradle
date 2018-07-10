@@ -1,1 +1,1 @@
-include ':ViewAnimation', ':propertyanimation'
+include ':frameanimation', ':propertyanimation', ':tweenanimation'
